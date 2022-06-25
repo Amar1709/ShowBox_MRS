@@ -13,7 +13,7 @@
 
 * Load the data from the Kaggle dataset
 * Data Cleaning - removing the rows with missing data
-* Data Pre-processing - simplying the https://showbox-mrs.herokuapp.com/
+* Data Pre-processing - simplifying the dataframe for the analysis
 * Removing spaces and creating tags for each movie
 * Applying Stemming to the tags
 * Count Vectorization - creating a matrix of the tags
